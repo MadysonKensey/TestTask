@@ -1,0 +1,8 @@
+C:\Users\Костя\source\repos\TestTask3\bin\Debug\TestTask3.exe.config
+C:\Users\Костя\source\repos\TestTask3\bin\Debug\TestTask3.exe
+C:\Users\Костя\source\repos\TestTask3\bin\Debug\TestTask3.pdb
+C:\Users\Костя\source\repos\TestTask3\obj\Debug\TestTask3.csproj.AssemblyReference.cache
+C:\Users\Костя\source\repos\TestTask3\obj\Debug\TestTask3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Костя\source\repos\TestTask3\obj\Debug\TestTask3.csproj.CoreCompileInputs.cache
+C:\Users\Костя\source\repos\TestTask3\obj\Debug\TestTask3.exe
+C:\Users\Костя\source\repos\TestTask3\obj\Debug\TestTask3.pdb
