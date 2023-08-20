@@ -10,8 +10,6 @@ namespace TestTask3
     {
         static void Main(string[] args)
         {
-
-            // ID ширина высота глубина вес
             Box box1 = new Box(1, 10, 10, 10, 2, new DateTime(2023, 1, 1));
             Box box2 = new Box(2, 8, 8, 8, 1, new DateTime(2023, 3, 15));
             Box box3 = new Box(3, 5, 5, 5, 0.5, new DateTime(2023, 2, 10));
@@ -30,7 +28,7 @@ namespace TestTask3
             Box box16 = new Box(16, 10, 10, 10, 2, new DateTime(2022, 1, 30));
             Box box17 = new Box(17, 8, 8, 8, 1, new DateTime(2023, 3, 15));
             Box box18 = new Box(18, 5, 5, 5, 0.5, new DateTime(2023, 2, 10));
-           //id ширина высота, глубина, коробки
+           
             Pallet pallet1 = new Pallet(1, 50, 50, 50, 0);
             Pallet pallet2 = new Pallet(2, 60, 60, 60, 0);
             Pallet pallet3 = new Pallet(3, 60, 60, 60, 0);
